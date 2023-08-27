@@ -1,0 +1,31 @@
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\bin\Debug\net6.0\appsettings.json
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\bin\Debug\net6.0\Self Introduction.staticwebassets.runtime.json
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\bin\Debug\net6.0\Self Introduction.exe
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\bin\Debug\net6.0\Self Introduction.deps.json
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\bin\Debug\net6.0\Self Introduction.runtimeconfig.json
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\bin\Debug\net6.0\Self Introduction.dll
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\bin\Debug\net6.0\Self Introduction.pdb
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.csproj.AssemblyReference.cache
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.AssemblyInfoInputs.cache
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.AssemblyInfo.cs
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.csproj.CoreCompileInputs.cache
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.RazorAssemblyInfo.cache
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.RazorAssemblyInfo.cs
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\staticwebassets\msbuild.Self Introduction.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\staticwebassets\msbuild.build.Self Introduction.props
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Self Introduction.props
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Self Introduction.props
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\scopedcss\bundle\Self Introduction.styles.css
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\scopedcss\projectbundle\Self Introduction.bundle.scp.css
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.dll
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\refint\Self Introduction.dll
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.pdb
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\Self Introduction.genruntimeconfig.cache
+C:\Users\jhoff\OneDrive\Github\Self-Projects\Self Introduction\obj\Debug\net6.0\ref\Self Introduction.dll
